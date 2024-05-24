@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Habiba Hassan ElHussieny
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Web Development, ML and AI!
 - 👩‍🎓I'm a Computer Engineering student @Cairo University Faculty of Engineering
 - 🌱 I’m currently learning to develop my coding and problem solving skills
 - 🤸‍♀️ I’m looking to collaborate on Backend Development Project
